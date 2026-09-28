@@ -1,7 +1,5 @@
-version: 2026.232.0520
 rocm:
     candy:
-        version: 2026.144.1443
         description: |
             AMD ROCm HIP runtime, OpenCL ICD, and GPU management tooling on Fedora
             Installs the AMD ROCm user-space stack from the Fedora system repos:
